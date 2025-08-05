@@ -1,0 +1,5 @@
+Ruta recomendada desde Ayora a Azcazubi:
+Secuencia: [Ayora, Cayambe, Juan_Montalvo, Cangahua, Otón, Cusubamba, Azcazubi]
+Distancia total: 65.9 km
+Condiciones externas: clima=soleado, prioridad=alta, congestion=false
+Sugerencia del árbol de decisión: Elegir ruta más rápida sin importar distancia

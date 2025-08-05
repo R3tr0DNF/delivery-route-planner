@@ -1,0 +1,3 @@
+nodos: Cusubamba, Otón, Azcazubi, Cangahua, Juan_Montalvo, Cayambe, Ayora, Olmedo
+aristas:Cusubamba-Otón-8,Otón-Cusubamba-6.6,Cusubamba-Cangahua-24.3,Cangahua-Cusubamba-37.7,Cusubamba-Azcazubi-16.6,Azcazubi-Cusubamba-15,Cusubamba-Cangahua-25.3,Azcazubi-Cangahua-32,Cangahua-Otón-21.3,Otón-Cangahua-19.2,Cangahua-Juan_Montalvo-15.9,Juan_Montalvo-Cangahua-14.3,Juan_Montalvo-Cayambe-2.4,Cayambe-Juan_Montalvo-2.8,Cayambe-Ayora-4.1,Ayora-Cayambe-4.3,Ayora-Olmedo-12.5,Olmedo-Ayora-12.5,Olmedo-Juan_Montalvo-18.7,Juan_Montalvo-Olmedo-18.8
+
